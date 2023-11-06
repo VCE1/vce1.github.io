@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title></title>
+  
+  
+  <link href="https://sakuramiko.xyz/atom.xml" rel="self"/>
+  
+  <link href="https://sakuramiko.xyz/"/>
+  <updated>2023-11-06T09:36:03.904Z</updated>
+  <id>https://sakuramiko.xyz/</id>
+  
+  <author>
+    <name>vce1</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>yiyandingzhen</title>
+    <link href="https://sakuramiko.xyz/2023/11/06/yiyandingzhen/"/>
+    <id>https://sakuramiko.xyz/2023/11/06/yiyandingzhen/</id>
+    <published>2023-11-06T09:35:29.000Z</published>
+    <updated>2023-11-06T09:36:03.904Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="丁真为什么抽电子烟？"><a href="#丁真为什么抽电子烟？" class="headerlink" title="丁真为什么抽电子烟？"></a>丁真为什么抽电子烟？</h3><ul><li>理塘海拔高，传统香烟燃烧慢，烟雾小，使用口感较差</li><li>当地经济落后，传统香烟易造成当地居民资金不足问题</li><li>传统与变革碰撞，随着科技和经济发展，电子烟越来越受年轻人青睐</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;丁真为什么抽电子烟？&quot;&gt;&lt;a href=&quot;#丁真为什么抽电子烟？&quot; class=&quot;headerlink&quot; title=&quot;丁真为什么抽电子烟？&quot;&gt;&lt;/a&gt;丁真为什么抽电子烟？&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;理塘海拔高，传统香烟燃烧慢，烟雾小，使用口感较差&lt;/li&gt;
+&lt;l</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://sakuramiko.xyz/2023/11/06/hello-world/"/>
+    <id>https://sakuramiko.xyz/2023/11/06/hello-world/</id>
+    <published>2023-11-06T09:13:36.240Z</published>
+    <updated>2023-11-06T09:13:36.240Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
