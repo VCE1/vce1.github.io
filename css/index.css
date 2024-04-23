@@ -1438,7 +1438,7 @@ canvas:not(#ribbon-canvas),
   }
 }
 :root {
-  --global-font-size: font;
+  --global-font-size: 18px;
   --global-bg: #fff;
   --font-color: #4c4948;
   --hr-border: #a4d8fa;
@@ -3817,9 +3817,25 @@ h1.page-title + .tag-cloud-list {
 #nav .site-page:not(.child):hover:after {
   width: 100%;
 }
+#pagination {
+  overflow: hidden;
+  margin-top: 1rem;
+  width: 100%;
+  border-radius: 8px;
+}
+#pagination img.prev-cover,
+#pagination img.next-cover {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  opacity: 0.5;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+  filter: alpha(opacity=50);
+}
 #pagination .pagination {
   margin-top: 20px;
   text-align: center;
+  border-radius: 8px;
 }
 #pagination .page-number.current {
   background: #00c4b6;
